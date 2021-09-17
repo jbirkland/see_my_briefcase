@@ -12,10 +12,10 @@ Create a portfolio to showcase my skills and talents for employers. Use recently
 
 ### Screen Shot
 Here is the screenshot file path to my webpage.
-(./assets/screenshot.png)
+(./assets/screenshot.jpg)
 
 
 
 ## Link to the Deployed Page
 
-Here is a link to my delpoyed code. 
+Here is a link to my delpoyed code. https://jbirkland.github.io/see_my_briefcase/
