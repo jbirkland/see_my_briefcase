@@ -55,7 +55,7 @@ background-color: darkgrey;
   justify-content:flex-start;
   right: 10px;
   margin: 25px 0;
-  padding: 10px 90px; 
+  /* padding: 10px 90px;  */
 
 }
 
@@ -74,7 +74,6 @@ background-color: darkgrey;
 
 img{
   border:white solid 20px;
-  margin-right: 25px;
 }
 
 #profilepic{
@@ -93,7 +92,7 @@ img{
 }
 
 .jjb07 li:hover{
-  border:blue solid 5px;
+  border:blue solid 15px;
   border-style: groove;
 }
 
